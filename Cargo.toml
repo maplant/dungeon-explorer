@@ -1,0 +1,13 @@
+[package]
+name = "dungeon-explorer"
+version = "1.0.0"
+authors = ["Matthew Plant <map@maplant.com>"]
+edition = "2018"
+
+[dependencies]
+structopt = "0.3.15"
+byte-slice-cast = "0.3.5"
+cgmath = "0.17.0"
+lazy_static = "1.4.0"
+rand = "0.7.3"
+sdl2 = "0.34.2"
